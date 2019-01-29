@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<info>
+    <id>twainwebscan</id>
+    <name>Twain Web Scan</name>
+    <description>Twain Web Scan for scan and upload to nextcloud directory</description>
+    <version>1.0.0</version>
+    <licence>AGPL</licence>
+    <author>SNDK Corp</author>
+    <category>tools</category>
+    <website>http://sndkcorp.com</website>
+    <repository>https://github.com/sndkcorp/nextcloud/tree/master/apps/twainwebscan</repository>
+    <bugs>https://github.com/sndkcorp/nextcloud/tree/master/apps/twainwebscan/issues</bugs>
+    <documentation>https://github.com/sndkcorp/nextcloud/tree/master/apps/twainwebscan</documentation>
+    <screenshot>https://raw.githubusercontent.com/sndkcorp/nextcloud/master/apps/twainwebscan/appinfo/scan.gif</screenshot>
+    <dependencies>
+        <nextcloud min-version="13" max-version="15"/>
+    </dependencies>
+</info>
