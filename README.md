@@ -2,11 +2,11 @@ Description
 -----------
 Scan from nextcloud
 
-![](https://raw.githubusercontent.com/sndkcorp/nextcloud/master/apps/twainwebscan/img/scan.gif)
+![](https://github.com/sndkcorp/twainwebscan/raw/master/appinfo/scan.gif)
 
 Installation
 ------------
 
 Version information
 -------------
-Version 0.0.1:
+Version 1.0.0:
